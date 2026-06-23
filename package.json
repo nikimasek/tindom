@@ -1,0 +1,17 @@
+{
+  "name": "tindom",
+  "version": "0.0.0",
+  "description": "A tiny DOM‑first web framework with modular architecture and lightweight reactivity.",
+
+  "author": "Dominik Mašek",
+  "license": "MIT",
+
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:nikimasek/tindom.git"
+  },
+  "homepage": "https://github.com/nikimasek/tindom",
+
+  "type": "module",
+  "main": "index.js"
+}
